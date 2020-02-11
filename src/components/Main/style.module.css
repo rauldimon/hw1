@@ -1,0 +1,40 @@
+.Container {
+  position: relative;
+  padding: 100px;
+  background: linear-gradient(to right, #76c8b8, #ffb2a2);
+}
+
+.GitLogo {
+  position: absolute;
+  right: 10px;
+}
+
+.Block {
+  border-radius: 5%;
+  width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px black;
+  text-align: center;
+}
+
+.Profile {
+  background-color:#8cbfc8;
+  padding: 20px;
+}
+
+.Profile
+ h2 {
+  margin-bottom: 50px;
+  font-size: 30px;
+  color: white;
+}
+
+
+.ButtonsBlock {
+  background-color: white;
+  padding: 10px ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
